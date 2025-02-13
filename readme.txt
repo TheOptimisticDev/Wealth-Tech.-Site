@@ -1,131 +1,46 @@
-==================================================================================================
+# Wealth Technologies Pty Ltd
 
-DESCRIPTION:
+Welcome to Wealth Technologies, a forward-thinking software engineering solutions company dedicated to providing innovative solutions for home and business security, custom software development, web and app design, and cloud solutions. We aim to empower businesses with cutting-edge technology and scalable solutions to tackle their most complex challenges.
 
-MUELLER is a modern and creative free agency website template. With Mueller, you can immediately 
-start creating a striking online presence that would capture everyone's attention. There is no 
-need to start from the ground up. This template includes essential features that allow you to 
-creatively introduce your business, highlight your services, showcase your best works, and much 
-more. Mueller is the perfect tool for creating a stunning website that makes your agency business 
-stand out!
+## About Us
 
-==================================================================================================
+Wealth Technologies Pty Ltd specializes in:
 
+- **Home and Business Security**: Delivering smart and reliable security systems that integrate seamlessly with modern technology.
+- **Custom Software Development**: Building tailored software solutions that meet the unique needs of our clients.
+- **Web Design and Development**: Creating visually stunning and user-friendly websites with a focus on optimal performance.
+- **App Development**: Crafting high-quality mobile applications that provide exceptional user experiences.
+- **Cloud Solutions**: Offering multi-cloud and AWS-based solutions for businesses to scale efficiently and securely.
 
-LICENSE:
+## Our Mission
 
-This free resource is provided by styleshout.com and is free to use in 
-both personal and commercial projects.
+We strive to deliver world-class software solutions that enhance the security, efficiency, and performance of our clients' operations, making them future-ready in an ever-evolving technological landscape.
 
+## Our Services
 
-Rights:
--------
+- **Software Engineering**: Custom development of enterprise-grade applications, platforms, and systems.
+- **Security Solutions**: Integration of advanced security systems for both physical and digital environments.
+- **Cloud Services**: Consulting and implementation of cloud-based infrastructure for optimized performance and scalability.
+- **Consulting**: Expert guidance on best practices in software development, cloud strategies, and security.
 
-You are permitted to use this free resource in any number of personal and commercial projects for 
-yourself or a client. You may modify the resource according to your requirements and include them 
-in your projects under the following condition - you MUST give appropriate credit, provide an 
-attribution link to styleshout.com.
+## Why Choose Us?
 
+- **Innovation**: We leverage the latest technologies to develop solutions that drive growth and efficiency.
+- **Tailored Solutions**: Every solution is custom-built to address the unique needs of our clients.
+- **Security-Focused**: We prioritize security at every stage, from design to deployment.
+- **Customer-Centric**: Your success is our success. We collaborate closely with clients to ensure long-term value and satisfaction.
 
-Prohibitions:
--------------
+## Contact Us
 
-You are not permitted to resell or redistribute(even for free) the resource "as is" without 
-prior consent. If you would like to republish or promote this resource on your site, please 
-link back to the appropriate resource page on styleshout.com where users can find the download 
-and not directly to the download zip file.
+For inquiries, partnerships, or consultations, feel free to reach out:
 
+- **Email**: [contact@wealthtechnologies.co.za](mailto:contact@wealthtechnologies.co.za)
+- **Phone**: +27 123 456 789
+- **Website**: [www.wealthtechnologies.co.za](http://www.wealthtechnologies.co.za)
 
-Attribution: 
-------------
+## Social Media
 
-You must include a credit link to our website(https://www.styleshout.com) somewhere on your site. 
-We prefer the footer credit that comes with the template but you are still free to move it 
-somewhere else.
+Stay connected with us on social media for the latest updates:
 
-
-
-If you have any questions about the License, feel free to contact us.
-
-
------------------------------------------------------------------------------------------------------
-
-
-REMOVING THE ATTRIBUTION LINK:
-
-We understand that there are situations where you want to use our templates without 
-the crediting obligation. If that's your case, you can always send us a 
-credit removal fee of 10 USD through Paypal. This will allow you to use a single 
-template attribution/credit link free on ONE DOMAIN name.
-
-You can send your payments through Paypal to this address: ealigam@gmail.com or
-visit our attribution removal page: https://www.styleshout.com/attribution-free/ 
-and click the pay button on the page.
-
-If possible, kindly send us the site's url where the template is being used. 
-Also, keep your Paypal receipt as proof of payment and your good to go.
-
-
------------------------------------------------------------------------------------------------------- 
-
-
-SUPPORT:
-    
-Since MUELLER is distributed for free, support is not offered. MUELLER is coded according 
-to current web standards and we did our best to make the template easy to use and modify.
-If you have minimum web development experience, you can easily modify the template. 
-However, If you're still new to HTML and CSS, I suggest that you visit the 
-following tutorials:
-
- - https://marksheet.io/
- - http://learn.shayhowe.com/html-css/
-
-These will teach you the essentials of HTML and CSS. In addition, if you want to include
-javascript in your skill-set, you can also check out these tutorials: 
-
- - https://www.codecademy.com/learn/introduction-to-javascript
- - https://javascript.info/
-
-
-
------------------------------------------------------------------------------------------------------- 
-
-
-GET THE LATEST VERSION:
-
-We update our templates on a regular basis so to make sure that you have the latest version, 
-always download the template files directly on our website(https://www.styleshout.com/)
-
-
-
-
--------------------------------------------------------------------------------------------------------
-
-
-SOURCES AND CREDITS:
-
-I've used the following resources as listed.
-
-Fonts:
- - Inter Font (https://fonts.google.com/specimen/Inter)
- - Manrope Font (https://fonts.google.com/specimen/Manrope)
-
-Icons:
- - Boxicons (https://boxicons.com/)
-
-Stock Photos and Graphics:
- - Unsplash.com (https://unsplash.com/)
- - LogoToUse.com (https://www.logotouse.com/)
- 
-Javascript Files:
- - Swiper (https://swiperjs.com/)
- - MoveTo.js (https://github.com/hsnaydd/moveTo)
- - Prism.js (https://prismjs.com/)
- - PhotoSwipe (https://photoswipe.com/)
-
--------------------------------------------------------------------------------------------------------
-
-
-Thanks for downloading from StyleShout :)
-
-
+- LinkedIn: [Wealth Technologies](https://www.linkedin.com/company/wealthtechnologies)
+- Twitter: [@WealthTechZA](https://twitter.com/WealthTechZA)
